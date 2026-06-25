@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="left">Hey 👋 I'm Mmor, a Computer Engineering Student</h1>
+<h1 data-importer="text" align="left">Hey I'm Mmor, a Computer Engineering Student</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">📚 I'm currently learning ...<br><br>Comprehensive software engineering, focusing on secure server administration, shell scripting, advanced relational database optimization, secure REST APIs, and building modern SaaS backend solutions.<br><br>🎯 Goals :<br><br>Build scalable SaaS solutions, master Linux environments, and land an awesome internship.<br><br>🎲 Fun fact :<br><br>I spent hours debugging code only to find out a single missing semicolon broke the server... or that I love piloting RC drones in my free time!</p>
+<p data-importer="text" align="left">📚 I'm currently learning ...<br><br>Comprehensive software engineering, focusing on secure server administration, shell scripting, advanced relational database optimization, secure REST APIs, and building modern SaaS backend solutions.<br><br>🎯 Goals :<br><br>Build scalable SaaS solutions, master Linux environments, and land an awesome internship.<br><br>💡 My Philosophy :<br><br>"Automate the repetitive, optimize the heavy, and never stop exploring how things work under the hood—whether it's a Linux kernel or a backend API architecture."</p>
 
 ###
 
@@ -44,9 +44,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=crabmites-dev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crabmites-dev&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph" />
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/crabmites-dev/crabmites-dev/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/crabmites-dev/crabmites-dev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
