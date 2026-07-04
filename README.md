@@ -44,7 +44,7 @@
 
 ###
 
-<div align="center">
+<div align= "center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=crabmites-dev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crabmites-dev&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph" />
 </div>
