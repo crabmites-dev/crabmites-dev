@@ -3,7 +3,7 @@
 ###
 
 <h2 data-importer="text" align="left">About me </h2>
-
+ 
 ###
 
 <p data-importer="text" align="left">📚 I'm currently learning ...<br><br>Comprehensive software engineering, focusing on secure server administration, shell scripting, advanced relational database optimization, secure REST APIs, and building modern SaaS backend solutions.<br><br>🎯 Goals :<br><br>Build scalable SaaS solutions, master Linux environments, and land an awesome internship.<br><br>💡 My Philosophy :<br><br>Automate the repetitive, optimize the heavy, and never stop exploring how things work under the hood—whether it's a Linux kernel or a backend API architecture.</p>
